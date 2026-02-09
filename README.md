@@ -7,7 +7,7 @@
 [![Latest Stable Release](https://img.shields.io/github/v/release/pkgforge-dev/Taradino-AppImage)](https://github.com/pkgforge-dev/Taradino-AppImage/releases/latest)
 
 <p align="center">
-  <img src="https://github.com/fabiangreffrath/taradino/blob/main/misc/taradino.png" width="128" />
+  <img src="https://github.com/fabiangreffrath/taradino/blob/main/misc/taradino.svg?raw" width="128" />
 </p>
 
 
